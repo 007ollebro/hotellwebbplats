@@ -1,0 +1,39 @@
+.navbar {
+    background-color: #2E0447;
+
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover {
+    color: #051A4A!important;
+    background-color: #bbb !important;
+}
+.navbar-default {
+    color: #fff !important;
+}
+
+iframe{
+    width: 95%;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
+img#rum{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  max-width: 600px;
+}
+
+
+footer{
+    background-color: #2E0447;
+    color: white;
+}
